@@ -48,4 +48,4 @@ def stock_purchases():
     # Alex has $5000 in savings and can buy 50 shares of Apple at the current price of $100.
     print(f"{client_name} has ${investment_amount} to invest and can buy {calculation} shares of {stock_name} at the current price of {price}.")
 
-stock_purchases()
+# stock_purchases()
